@@ -1,4 +1,4 @@
-.header {
+/* .header {
   padding: 20px 0;
 }
 .nav {
@@ -9,8 +9,8 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-}
-.nav-list {
+} */
+/* .nav-list {
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -26,8 +26,8 @@
 .nav-link:hover,
 .nav-link:focus {
   color: #747bff;
-}
-.nav-link::after {
+} */
+/* .nav-link::after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -41,4 +41,4 @@
 }
 .nav-link.active::after {
   background: #747bff;
-}
+} */
